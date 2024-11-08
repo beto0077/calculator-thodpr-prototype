@@ -1,4 +1,4 @@
-#calculator-thodpr-prototype
+# calculator-thodpr-prototype
 
 Final project of the foundations course of The Odin Project
 
